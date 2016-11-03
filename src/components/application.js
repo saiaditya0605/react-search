@@ -14,7 +14,7 @@ class Application extends Component {
   }
 
   componentDidMount() {
-    this.search('sai aditya');
+    this.search('google');
   }
 
   search(term) {
